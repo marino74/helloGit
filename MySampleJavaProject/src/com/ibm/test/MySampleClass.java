@@ -1,6 +1,7 @@
 package com.ibm.test;
 
 public class MySampleClass {
+	//Cambio web
 	
 	private String name;
 
